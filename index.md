@@ -6,15 +6,15 @@ We reserve the right at any time and from time to time to modify or discontinue,
 
 ## Privacy Policy
 
-"Hockey Widgets!" never asks you private informations and collect only anonymous informations about the usage.
+"Cook It Later" never asks you private informations and collect only anonymous informations about the usage.
 
 #### Ads and analytics
 
-"Hockey Widgets!" app collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app.
+"Cook It Later" app collects aggregate, anonymous statistics, such as the percentage of users who use particular features, to improve the app.
 
 #### Information for European Union Customers
 
-By using "Hockey Widgets!" and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
+By using "Cook It Later" and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
 
 #### Your Consent
 
